@@ -38,7 +38,7 @@ function validateguess(guess) {
 
 function checkguess(guess) {
     if(guess === random){
-        displayMessage("booyah!!! You WON!!!")
+        displayMessage("Booyah!!! You WON!!!")
         endgame();
     }
     else if(guess < random){
