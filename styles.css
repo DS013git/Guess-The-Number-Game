@@ -69,12 +69,12 @@ button{
     box-sizing: border-box;
     text-align: center;
     width: 450px;
-    height: 650px;
+    height: 750px;
     background-color: rgb(115, 80, 115);
     color: white;;
     font-size: 25px;
     border-radius: 25px;;
-    background-image: url('../pic/gun.webp');
+    background-image: url('/guess the number game/pic/gun.webp');
     background-size: cover;
 
 }
